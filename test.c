@@ -1,5 +1,6 @@
 #include <stdio.h>
-// GIT2
+//GIT1
+//GIT2
 int main()
 {
 	printf("aaa\n");
